@@ -13,7 +13,7 @@
 }
 
 .one {
-    background-image: url(../media/1.avif);
+    background-image: url(../media/precision-scales.jpeg);
 }
 
 .two {
@@ -83,7 +83,7 @@
     font-size: 1.5rem;
     font-weight: 500;
     padding: 1rem;
-    border-radius: 2rem;
+    border-radius: 5px;
     flex-basis: 80%;
     margin-bottom: 1rem;
 }

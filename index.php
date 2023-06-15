@@ -14,42 +14,42 @@
     <main id="myfullpage">
         <section class="section one">
             <div class="content">
-                <h1 class="title">Model 3</h1>
+                <h1 class="title">Precision Scales</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="3.php">custom order</a>
+                <a class="btn btn-primary" href="3.php">Contact Us</a>
             </div>
         </section>
         <section class="section two">
             <div class="content">
-                <h1 class="title">Model Y</h1>
+                <h1 class="title">Platform Scales</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="y.php">custom order</a>
+                <a class="btn btn-primary" href="y.php">Contact Us</a>
             </div>
         </section>
         <section class="section three">
             <div class="content">
-                <h1 class="title">Model S</h1>
+                <h1 class="title">Crane Weigher</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="s.php">custom order</a>
+                <a class="btn btn-primary" href="s.php">Contact Us</a>
             </div>
         </section>
         <section class="section four">
             <div class="content">
-                <h1 class="title">Model X</h1>
+                <h1 class="title">Weigh-Bridges</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="x.php">custom order</a>
+                <a class="btn btn-primary" href="x.php">Contact Us</a>
             </div>
         </section>
         <section class="section five">
             <div class="content">
-                <h1 class="title">Solar Roof</h1>
+                <h1 class="title">Others</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="roof.php">custom order</a>
+                <a class="btn btn-primary" href="roof.php">Contact Us</a>
             </div>
         </section>
         <section class="section seven">
@@ -57,7 +57,7 @@
                 <h1 class="title">Accessories</h1>
             </div>
             <div class="button-container">
-                <a class="btn btn-primary" href="#">Shop now</a>
+                <a class="btn btn-primary" href="#">Contact Us</a>
             </div>
 
 <?php 
