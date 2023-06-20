@@ -1,8 +1,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>GSS-Tesla</title>
-    <link rel="icon" type="image/x-icon" href="assets/media/tesla_logo_icon_169601.png">
+    <title>Dx-Resources | Precision Scales | Platform Scales | Crane Weigher</title>
+    <link rel="icon" type="image/x-icon" href="assets/media/dx-icon.png">
     <link rel="stylesheet" href="assets/css/index.css" />
     <link rel="stylesheet" href="assets/css/variable.css" />
     <link rel="stylesheet" href="assets/css/header.css" />
