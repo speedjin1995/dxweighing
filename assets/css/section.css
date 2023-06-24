@@ -13,23 +13,24 @@
 }
 
 .one {
-    background-image: url(../media/precision-scales.jpg);
+    /* background-image: url(../media/precision-scales.jpg); */
+    background-image: url(../media/precision-scales-1.jpg);
 }
 
 .two {
-    background-image: url(../media/2.avif);
+    background-image: url(../media/platform-scale.jpg);
 }
 
 .three {
-    background-image: url(../media/3.avif);
+    background-image: url(../media/crane-weigher.jpeg);
 }
 
 .four {
-    background-image: url(../media/4.avif);
+    background-image: url(../media/weigh-bridge.png);
 }
 
-.seven {
-    background-image: url(../media/7.avif);
+.five {
+    background-image: url(../media/others.jpeg);
 }
 
 /* content */

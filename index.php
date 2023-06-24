@@ -51,15 +51,6 @@
             <div class="button-container">
                 <a class="btn btn-primary" href="roof.php">Contact Us</a>
             </div>
-        </section>
-        <section class="section seven">
-            <div class="content">
-                <h1 class="title">Accessories</h1>
-            </div>
-            <div class="button-container">
-                <a class="btn btn-primary" href="#">Contact Us</a>
-            </div>
-
 <?php 
     include 'footer.php';
 ?>
