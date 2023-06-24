@@ -12,7 +12,7 @@
 
     <section class="section one">
         <div class="content">
-            <h1 class="title">Model 3</h1>
+            <h1 class="title">Precision Scales</h1>
     </section>
     <div class="grid-container">
         <div class="grid-item">3.1 s<br>0-60 mph</div>
