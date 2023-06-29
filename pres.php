@@ -9,78 +9,65 @@
 <?php 
     include 'menu2.php';
 ?>
-
     <section class="section one">
         <div class="content">
             <h1 class="title">Precision Scales</h1>
     </section>
+  
     <div class="grid-container">
-        <div class="grid-item">3.1 s<br>0-60 mph</div>
-        <div class="grid-item">358 mi<br>Range (EPA est.) </div>
-        <div class="grid-item">AWD<br>Dual Motor</div>
+        <div class="grid-item">Anti-overload<br>Function</div>
+        <div class="grid-item">LCD Display<br>with Backlight</div>
+        <div class="grid-item">Operating Temperature<br>10 ℃ ~ 60 ℃</div>
         <div class="grid-item">
             <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Order Now" name="3form">
+                <input type="submit" value="Contact Us" name="3form">
             </form>
         </div>
-
     </div>
     <p
         style="justify-content: center;display: flex;background-color: black;color: white;padding-bottom: 2vw;font-size: 40px;font-family: Arial, Helvetica, sans-serif;">
-        Brand New Interior</p>
-
-    <div id="sec2" style="background-color: rgb(255, 255, 255);">
+        Product Features</p>
+    <!-- <div id="sec2" style="background-color: rgb(255, 255, 255);">
         <img src="assets/media/3int1.png" alt="" style="width: 100%;">
-    </div>
-
-
+    </div> -->
     <div class="grid-container4">
         <div class="grid-item4" style="width: 39vw;">
-            <img src="assets/media/3_1.png" alt="" style="width: 53vw;">
+            <img src="assets/media/pres_1.jpg" alt="" style="width: 53vw;">
         </div>
         <div class="grid-item4" style="width: 120px;">
-            <p style="width: 30vw;">Safety</p><br>
-            <h1 style="width: 30vw;">Designed for Safety</h1><br>
-            <p style="width: 30vw;">Safety is the most important part of every Tesla. We design our vehicles to exceed safety standards. <br><br>
-
-5-Star Rating : <br>
-Model 3 achieved NHTSA 5-star safety ratings in every category and subcategory. <br><br>
-
-Top Safety Pick+ : <br>
-Model 3 received the IIHS Top Safety Pick+ award, with top ratings in all crashworthiness and front crash prevention categories. 
+            <!-- <p style="width: 30vw;">Safety</p><br>
+            <h1 style="width: 30vw;">Designed for Safety</h1><br> -->
+            <p style="width: 30vw;">High-precision straining resistance sensor<br><br>
+            Strong anti-overload function<br><br>
+            Optional power saving mode<br><br>
+            LCD display with backlight<br><br>
+            Tare & simple count function<br><br>
+            Overweight indication<br><br>
+            Low battery indication<br><br>
             </p>
         </div>
     </div>
-
-
     <div class="grid-container4">
         <div class="grid-item2">
-            <p>All-Wheel Drive</p><br>
-            <h1>Dual Motor</h1><br><br>
+            <p>Sensor</p><br>
+            <h1>High-precision Straining <br>Resistance</h1><br><br>
         </div>
         <div class="grid-item4">
-            <p>Tesla All-Wheel Drive has two independent motors for improved redundancy, each with only one moving part for minimal maintenance and maximum durability. Unlike traditional all-wheel drive systems, they digitally control torque to the front and rear wheels for far better handling and traction control. 
+            <p>A high-precision straining resistance sensor is a key component in a precision scale that enables accurate measurement of weight or mass. It works on the principle of strain gauge technology, which utilizes the change in electrical resistance of a material under strain or pressure. 
             <p>
         </div>
     </div>
-
     <div class="grid-container4">
         <div class="grid-item4">
-            <p>The inside of Model 3 is unlike any other car. You can use your smartphone as a key, and access all driver controls in the central 15-inch touchscreen. The all-glass roof extends from front to back, creating a sense of openness from every seat. 
+            <p>A strong anti-overload function in a precision scale refers to a feature that protects the scale from damage or inaccurate readings when excessive weight is applied to it. It is designed to ensure the scale's integrity and maintain accurate measurements within its specified weight range. 
             <p>
         </div>
         <div class="grid-item2">
-            <p>Interior</p><br>
-            <h1>Built Around the Driver </h1><br><br>
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Order Now" style="color: white;background-color: black;"
-                    onmouseover="change()" onmouseout="change2()" id="chg" name="3form">
-            </form>
+            <p>Function</p><br>
+            <h1>Strong Anti-overload</h1><br><br>
         </div>
     </div>
-
-
-    <div id="sec2" style="background-color: black;">
+    <!-- <div id="sec2" style="background-color: black;">
         <div class="thumbnail">
             <img id="txt" src="assets/media/3_3.jpg" alt="" style="width: 100%;">
             <div class="caption">
@@ -100,27 +87,45 @@ Model 3 received the IIHS Top Safety Pick+ award, with top ratings in all crashw
                 </div>
             </div>
         </div>
-    </div>
-
-
-    <div class="grid-container4" style="background-color: black;">
+    </div> -->
+    <!-- <div class="grid-container4" style="background-color: white;">
         <div class="grid-item2">
-            <h1 style="color: white;">Model 3</h1><br><br>
+            <h1 style="color: black;">Precision Scales</h1><br><br>
             <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Order Now" onmouseover="change()" onmouseout="change2()" id="chg"
+                <input type="submit" value="Contact Us" style="color: white;background-color: black;" onmouseover="change()" onmouseout="change2()" id="chg"
                     name="3form">
             </form>
-
         </div>
         <div class="grid-item4">
-            <img src="assets/media/3_2.png" alt="" style="width: 100%;">
+            <img src="assets/media/pres_2.jpg" alt="" style="width: 100%;">
+        </div>
+    </div> -->
+    <div class="grid-container4">
+        <div class="grid-item4" style="width: 6vw;">
+            <img src="assets/media/pres_2.jpg" alt="" style="width: 39vw;">
+        </div>
+        <div class="grid-item4" style="width: 3vw;">
+            <p style="font-size: 2em; width: 30vw;"><b>Product</b> Specs</p><br>
+            <p style="width: 30vw;">_____<br><br>
+            <b>Weight</b><br><br>
+            1.38kg<br><br>
+            _____<br><br>
+            <b>Material</b><br><br>
+            ABS Material Housing<br><br>
+            _____<br><br>
+            <b>Scale Size</b><br><br>
+            270 x 170 x 80 mm<br><br>
+            _____<br><br>
+            <b>Units</b><br><br>
+            g, ct, oz, dwt, tola, lb, tmr<br><br>
+            _____<br><br>
+            <b>Power Supply</b><br><br>
+            Rechargeable Battery 6V + Adapter 12V1AH<br><br>
         </div>
     </div>
-
-
-
-
-
+    <!-- <?php 
+    include 'footer.php';
+?> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
         integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -155,5 +160,4 @@ Model 3 received the IIHS Top Safety Pick+ award, with top ratings in all crashw
         }
     </script>
 </body>
-
 </html>
