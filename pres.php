@@ -18,15 +18,19 @@
         <div class="grid-item">Anti-overload<br>Function</div>
         <div class="grid-item">LCD Display<br>with Backlight</div>
         <div class="grid-item">Operating Temperature<br>10 ℃ ~ 60 ℃</div>
+        <div class="grid-item">
+            <form action="actionpage.php" method="post" name="form">
+                <input type="submit" value="Contact Us" name="3form">
+            </form>
+        </div>
     </div>
-    <p
-        style="justify-content: center;display: flex;background-color: black;color: white;padding-bottom: 2vw;font-size: 40px;">
-        Product Features</p>
     <div class="grid-container4">
         <div class="grid-item4" style="width: 39vw;">
             <img src="assets/media/pres_1.jpg" alt="" style="width: 53vw;">
         </div>
         <div class="grid-item4" style="width: 120px;">
+            <p style="width: 30vw;">Product Features</p><br>
+            <h1 style="width: 30vw;">Synctronix Electronic ABS Precision Balance Scale</h1><br>
             <p style="width: 30vw;">High-precision straining resistance sensor<br><br>
             Strong anti-overload function<br><br>
             Optional power saving mode<br><br>
