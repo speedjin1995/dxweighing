@@ -1,5 +1,3 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Mohave:wght@700&family=Montserrat:wght@100;200;300;400;500;600;700&family=Nothing+You+Could+Do&display=swap');
 
 /* Mobile first responsiveness */
@@ -10,7 +8,8 @@
 }
 
 html {
-    font-size: 62.5%;  /*makes 1rem = 10px */
+    font-size: 62.5%;
+    /*makes 1rem = 10px */
     line-height: 1.15;
 }
 
@@ -25,4 +24,3 @@ a:link,
 a:visited {
     text-decoration: none;
 }
-

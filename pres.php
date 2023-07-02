@@ -18,25 +18,15 @@
         <div class="grid-item">Anti-overload<br>Function</div>
         <div class="grid-item">LCD Display<br>with Backlight</div>
         <div class="grid-item">Operating Temperature<br>10 ℃ ~ 60 ℃</div>
-        <div class="grid-item">
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Contact Us" name="3form">
-            </form>
-        </div>
     </div>
     <p
-        style="justify-content: center;display: flex;background-color: black;color: white;padding-bottom: 2vw;font-size: 40px;font-family: Arial, Helvetica, sans-serif;">
+        style="justify-content: center;display: flex;background-color: black;color: white;padding-bottom: 2vw;font-size: 40px;">
         Product Features</p>
-    <!-- <div id="sec2" style="background-color: rgb(255, 255, 255);">
-        <img src="assets/media/3int1.png" alt="" style="width: 100%;">
-    </div> -->
     <div class="grid-container4">
         <div class="grid-item4" style="width: 39vw;">
             <img src="assets/media/pres_1.jpg" alt="" style="width: 53vw;">
         </div>
         <div class="grid-item4" style="width: 120px;">
-            <!-- <p style="width: 30vw;">Safety</p><br>
-            <h1 style="width: 30vw;">Designed for Safety</h1><br> -->
             <p style="width: 30vw;">High-precision straining resistance sensor<br><br>
             Strong anti-overload function<br><br>
             Optional power saving mode<br><br>
@@ -67,39 +57,6 @@
             <h1>Strong Anti-overload</h1><br><br>
         </div>
     </div>
-    <!-- <div id="sec2" style="background-color: black;">
-        <div class="thumbnail">
-            <img id="txt" src="assets/media/3_3.jpg" alt="" style="width: 100%;">
-            <div class="caption">
-                <div class="grid-container3">
-                    <div class="grid-item3">
-                        1,020 hp<br>
-                        Peak Power
-                    </div>
-                    <div class="grid-item3">
-                        <p>9.23 s</p>
-                        <p>@155 mph 1/4 mile</p>
-                    </div>
-                    <div class="grid-item3">
-                        <p>1.99 s</p>
-                        <p>0-60 mph</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- <div class="grid-container4" style="background-color: white;">
-        <div class="grid-item2">
-            <h1 style="color: black;">Precision Scales</h1><br><br>
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Contact Us" style="color: white;background-color: black;" onmouseover="change()" onmouseout="change2()" id="chg"
-                    name="3form">
-            </form>
-        </div>
-        <div class="grid-item4">
-            <img src="assets/media/pres_2.jpg" alt="" style="width: 100%;">
-        </div>
-    </div> -->
     <div class="grid-container4">
         <div class="grid-item4" style="width: 6vw;">
             <img src="assets/media/pres_2.jpg" alt="" style="width: 39vw;">
@@ -123,9 +80,11 @@
             Rechargeable Battery 6V + Adapter 12V1AH<br><br>
         </div>
     </div>
-    <!-- <?php 
+    <footer class="footer">
+    <?php 
     include 'footer.php';
-?> -->
+?>
+</footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
         integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>

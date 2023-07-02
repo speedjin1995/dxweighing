@@ -1,12 +1,12 @@
-input[type=text]{
+input[type=text] {
     font-size: 15px;
 }
 
-.form-label{
+.form-label {
     font-size: 15px;
-} 
+}
 
-.form-select{
+.form-select {
     font-size: 15px;
 }
 
@@ -20,17 +20,15 @@ input[type=text]{
     padding-left: 10vw;
     padding-right: 10vw;
     color: rgb(0, 0, 0);
-  }
+}
 
-  .grid-item2 {
+.grid-item2 {
     padding-top: 5px;
-padding-right: 15px;
-padding-bottom: 15px;
-padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
     font-size: 20px;
     text-align: left;
     align-content: center;
     display: grid;
-  }
-
- 
+}
