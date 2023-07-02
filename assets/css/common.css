@@ -3,10 +3,10 @@
   height: 220px;
   display: grid;
   column-gap: 5px;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: auto auto auto;
   padding-left: 10vw;
   padding-right: 10vw;
-  color: white;
+  color: white; 
 }
 
 .grid-item {

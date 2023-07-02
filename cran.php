@@ -7,102 +7,34 @@
 
 <body>
 <?php 
-    include 'menu2.php';
+    include 'menu.php';
 ?>
 
-    <section class="section four">
+    <section class="section three">
         <div class="content">
-            <h1 class="title">Model X</h1>
+            <h1 class="title">Crane Weigher</h1>
     </section>
     <div class="grid-container">
-        <div class="grid-item"> 333 mi<br>
-            Range (EPA est.) </div>
-        <div class="grid-item"> 2.5 s<br>
-            0-60 mph</div>
-        <div class="grid-item"> 9.9 s<br>
-            1/4 mile </div>
-        <div class="grid-item"> 1,020 hp<br>
-            Peak Power </div>
-        <div class="grid-item">
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Order Now" name="xform">
-            </form>
-        </div>
-
+        <div class="grid-item">High Accuracy</div>
+        <div class="grid-item">Compact Structure</div>
+        <div class="grid-item">Equipped with <br>Wireless Communication</div>
     </div>
-    <p
-        style="justify-content: center;display: flex;background-color: black;color: white;padding-bottom: 2vw;font-size: 40px;font-family: Arial, Helvetica, sans-serif;">
-        All-New Interior</p>
-
-    <div id="sec2" style="background-color: black;">
-        <img src="assets/media/y_int.jpg" alt="" style="width: 100%;">
-    </div>
-
-    <div class="grid-container2">
-        <div class="grid-item2">
-            <img src="assets/media/y_int1.jpg" alt="" style="width: 100%;">
-        </div>
-        <div class="grid-item2">
-            <h1>Wireless Gaming</h1><br>
-            <p>Up to 10 teraflops of processing power enables in-car gaming on-par with today’s newest consoles. Wireless controller compatibility lets you game from any seat.
-            <p>
-        </div>
-
-        <div class="grid-item2">
-            <h1>Stay Connected</h1> <br>
-            <p>Multi-device Bluetooth, wireless and USB-C charging for every passenger, with enough power to fast-charge your tablets and laptop.
-            </p>
-        </div>
-        <div class="grid-item2">
-            <img src="assets/media/y_int2.jpg" alt="" style="width: 100%;">
-        </div>
-
-        <div class="grid-item2">
-            <img src="assets/media/y_int3.jpg" alt="" style="width: 100%;">
-        </div>
-        <div class="grid-item2">
-            <h1>Our Best Audio System</h1><br>
-            <p>A 22-speaker, 960-watt audio system with Active Road Noise Reduction offers the best listening experience wherever you are.
-            <p>
-        </div>
-
-    </div>
-
-    <div id="sec2">
-        <div class="thumbnail">
-            <img id="txt" src="assets/media/y_1.jpg" alt="" style="width: 100%;">
-            <div class="caption">
-                <div class="grid-container3">
-                    <div class="grid-item3">
-                        1,020 hp<br>
-                        Peak Power
-                    </div>
-                    <div class="grid-item3">
-                        <p>9.9 s</p>
-                        <p>1/4 mile</p>
-                    </div>
-                    <div class="grid-item3">
-                        <p>2.5 s</p>
-                        <p>0-60 mph</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
     <div class="grid-container4">
         <div class="grid-item2">
-            <p>Plaid</p><br>
-            <h1>Beyond Ludicrous</h1><br><br>
+            <p>Electronic</p><br>
+            <h1>Heavy Duty Crane Scale</h1><br><br>
             <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Order Now" style="color: white;background-color: black;"
+                <input type="submit" value="Contact Us" style="color: white;background-color: black;"
                     onmouseover="change()" onmouseout="change2()" id="chg" name="xform">
             </form>
 
         </div>
         <div class="grid-item4">
-            <p>With the most power and quickest acceleration of any SUV, Model X Plaid is the highest performing SUV ever built. All Model X powertrains, with updated battery architecture, can deliver instant torque at any speed. 
+            <p>With high accuracy,
+one side direct display measuring unit which
+combine load cell and power supply together. It can be directly hung on the hook of a hoist and
+ensure the scale to complete the tasks of loading
+and weighing goods synchronously.
             <p>
         </div>
     </div>

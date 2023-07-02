@@ -15,7 +15,7 @@
           <h1 class="title">Precision Scales</h1>
         </div>
         <div class="button-container">
-          <a class="btn btn-primary" href="3.php">Contact Us</a>
+          <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
       <section class="section two">
@@ -23,7 +23,7 @@
           <h1 class="title">Platform Scales</h1>
         </div>
         <div class="button-container">
-          <a class="btn btn-primary" href="y.php">Contact Us</a>
+          <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
       <section class="section three">
@@ -31,7 +31,7 @@
           <h1 class="title">Crane Weigher</h1>
         </div>
         <div class="button-container">
-          <a class="btn btn-primary" href="s.php">Contact Us</a>
+          <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
       <section class="section four">
@@ -39,7 +39,7 @@
           <h1 class="title">Weigh-Bridges</h1>
         </div>
         <div class="button-container">
-          <a class="btn btn-primary" href="x.php">Contact Us</a>
+          <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
       <section class="section five">
@@ -47,7 +47,7 @@
           <h1 class="title">Others</h1>
         </div>
         <div class="button-container">
-          <a class="btn btn-primary" href="roof.php">Contact Us</a>
+          <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
         <footer class="footer" style="position: absolute">
         <?php 

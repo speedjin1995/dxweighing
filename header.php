@@ -6,14 +6,11 @@
     <link rel="stylesheet" href="assets/css/index.css" />
     <link rel="stylesheet" href="assets/css/variable.css" />
     <link rel="stylesheet" href="assets/css/header.css" />
-    <link rel="stylesheet" href="assets/css/header2.css" />
     <link rel="stylesheet" href="assets/css/navigation.css" />
     <link rel="stylesheet" href="assets/css/section.css" />
     <link rel="stylesheet" href="assets/css/footer.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <link rel="stylesheet" href="assets/css/common.css">
-    <link rel="stylesheet" href="assets/css/x.css">
-    <link rel="stylesheet" href="assets/css/y.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css"
         integrity="sha512-4rPgyv5iG0PZw8E+oRdfN/Gq+yilzt9rQ8Yci2jJ15rAyBmF0HBE4wFjBkoB72cxBeg63uobaj1UcNt/scV93w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />

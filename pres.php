@@ -7,7 +7,7 @@
 
 <body>
 <?php 
-    include 'menu2.php';
+    include 'menu.php';
 ?>
     <section class="section one">
         <div class="content">
@@ -18,11 +18,6 @@
         <div class="grid-item">Anti-overload<br>Function</div>
         <div class="grid-item">LCD Display<br>with Backlight</div>
         <div class="grid-item">Operating Temperature<br>10 ℃ ~ 60 ℃</div>
-        <div class="grid-item">
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Contact Us" name="3form">
-            </form>
-        </div>
     </div>
     <div class="grid-container4">
         <div class="grid-item4" style="width: 39vw;">
@@ -38,7 +33,7 @@
             Tare & simple count function<br><br>
             Overweight indication<br><br>
             Low battery indication<br><br>
-            </p>
+            </p>           
         </div>
     </div>
     <div class="grid-container4">

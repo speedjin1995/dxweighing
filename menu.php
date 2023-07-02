@@ -9,7 +9,7 @@
         <li>
             <a href="pres.php" class="nav-btn">Precision Scales</a>
             <a href="plat.php" class="nav-btn">Platform Scales</a>
-            <a href="x.php" class="nav-btn">Crane Weigher</a>
+            <a href="cran.php" class="nav-btn">Crane Weigher</a>
             <a href="y.php" class="nav-btn">Weigh-Bridges</a>
             <a href="roof.php" class="nav-btn">Others</a>
         </li>
@@ -26,15 +26,10 @@
     </div>
 
     <ul>
-        <!-- <li class="middle-header-nav-link"><a href="#" class="nav-link">Precision Scales</a></li> -->
-        <!-- <li class="middle-header-nav-link"><a href="#" class="nav-link">model 3</a></li> -->
-        <!-- <li class="middle-header-nav-link"><a href="#" class="nav-link">model x</a></li> -->
-        <!-- <li class="middle-header-nav-link"><a href="#" class="nav-link">model y</a></li> -->
-        <!-- <li class="middle-header-nav-link"><a href="#" class="nav-link">solar roof</a></li> -->
         <li><a href="index.php" class="nav-link">home</a></li>
         <li><a href="pres.php" class="nav-link">Precision Scales</a></li>
         <li><a href="plat.php" class="nav-link">Platform Scales</a></li>
-        <li><a href="x.php" class="nav-link">Crane Weigher</a></li>
+        <li><a href="cran.php" class="nav-link">Crane Weigher</a></li>
         <li><a href="y.php" class="nav-link">Weigh-Bridges</a></li>
         <li><a href="roof.php" class="nav-link">Others</a></li>
     </ul>

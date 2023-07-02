@@ -7,7 +7,7 @@
 
 <body>
 <?php 
-    include 'menu2.php';
+    include 'menu.php';
 ?>
     <section class="section two">
         <div class="content">
@@ -17,11 +17,6 @@
         <div class="grid-item">Steel<br>Structure</div>
         <div class="grid-item">Different Sizes,<br>Capacities, Styles and Models</div>
         <div class="grid-item">Functions<br>Depend On The Indicator</div>
-        <div class="grid-item">
-            <form action="actionpage.php" method="post" name="form">
-                <input type="submit" value="Contact Us" name="3form">
-            </form>
-        </div>
     </div>
     <div class="grid-container4">
         <div class="grid-item4">
