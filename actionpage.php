@@ -47,7 +47,7 @@
             <input type="text" class="input-field" name="userEmail" id="userEmail" />
           </div>
           <div class="input-row">
-            <label>Mobile Phone Number</label> <span id="userEmail-info" class="info"></span><br />
+            <label>Mobile Number</label> <span id="userEmail-info" class="info"></span><br />
             <input type="text" class="input-field" name="userEmail" id="userEmail" />
           </div>
         </div>
