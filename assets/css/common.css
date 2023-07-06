@@ -6,7 +6,7 @@
   grid-template-columns: auto auto auto;
   padding-left: 10vw;
   padding-right: 10vw;
-  color: white; 
+  color: white;
 }
 
 .grid-item {
@@ -118,4 +118,76 @@ input[type=submit]:hover {
   text-align: left;
   align-content: center;
   display: grid;
+}
+
+.form-container {
+  border: #e2ddd2 1px solid;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding-right: 5px;
+  column-gap: 20px;
+}
+
+.input-row {
+  margin-bottom: 20px;
+}
+
+.input-row label {
+  color: #75726c;
+  font-size: 1.5rem;
+}
+
+.input-field {
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+  border: #e0dfdf 1px solid;
+  box-sizing: border-box;
+  margin-top: 2px;
+}
+
+.span-field {
+  font: Arial;
+  font-size: small;
+  text-decoration: none;
+}
+
+.btn-submit {
+  padding: 10px 60px;
+  background: #9e9a91;
+  border: #8c8880 1px solid;
+  color: #ffffff;
+  font-size: 0.9em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.errorMessage {
+  background-color: #e66262;
+  border: #AA4502 1px solid;
+  padding: 5px 10px;
+  color: #FFFFFF;
+  border-radius: 5px;
+}
+
+.successMessage {
+  background-color: #9fd2a1;
+  border: #91bf93 1px solid;
+  padding: 5px 10px;
+  color: #3d503d;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+
+.info {
+  font-size: .8em;
+  color: #e66262;
+  letter-spacing: 2px;
+  padding-left: 5px;
 }
