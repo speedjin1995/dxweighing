@@ -4,8 +4,6 @@
   display: grid;
   column-gap: 5px;
   grid-template-columns: auto auto auto;
-  padding-left: 10vw;
-  padding-right: 10vw;
   color: white;
 }
 

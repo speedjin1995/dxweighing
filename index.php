@@ -10,7 +10,7 @@
 ?>
 
     <main id="myfullpage">
-      <section class="section one">
+      <section onclick="location.href='pres.php';" class="section one">
         <div class="content">
           <h1 class="title">Precision Scales</h1>
         </div>
@@ -18,7 +18,7 @@
           <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
-      <section class="section two">
+      <section onclick="location.href='plat.php';" class="section two">
         <div class="content">
           <h1 class="title">Platform Scales</h1>
         </div>
@@ -26,7 +26,7 @@
           <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
-      <section class="section three">
+      <section onclick="location.href='cran.php';" class="section three">
         <div class="content">
           <h1 class="title">Crane Weigher</h1>
         </div>

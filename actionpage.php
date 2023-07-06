@@ -11,7 +11,7 @@
     <p style="
             justify-content: center;
             display: flex;
-            padding-top: 5em;
+            padding-top: 15vh;
             font-size: 20px;
           ">
       Contact Us
@@ -25,7 +25,7 @@
         href="https://api.whatsapp.com/send?phone=60124135822">Whatsapp Us Now</a>
     </div>
   </section>
-  <section class="section" style="height: 75vh;">
+  <section class="section" style="height: 75vh; padding-top: 80px;">
     <div class="form-container">
       <form name="frmContact" id="" frmContact"" method="post" action="" enctype="multipart/form-data"
         onsubmit="return validateContactForm()">
@@ -77,7 +77,7 @@
       </form>
   </section>
 
-  <footer class="footer">
+  <footer class="footer" style="padding-top: 200px;">
     <?php 
     include 'footer.php';
 ?>
