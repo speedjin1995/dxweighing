@@ -120,48 +120,13 @@ and weighing goods synchronously.
             <img src="assets/media/xext4.jpg" alt="" style="width: 100%;">
         </div>
     </div>
-    
-
-
-
-
-
-
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
-        integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script>
-        const menuBtn = document.querySelector('.menu-btn')
-        const navigation = document.querySelector('.navigation')
-        const navCloseBtn = document.querySelector('.close-btn')
-        const blurOverlay = document.querySelector('.blur-overlay')
-        const fullPageElement = document.getElementById('myfullpage')
-
-        const IS_ACTIVE = 'is-active'
-        const CLICK = 'click'
-
-        //toggle navigation and blur overlay
-        const toggleNavigation = () => {
-            navigation.classList.toggle(IS_ACTIVE)
-            blurOverlay.classList.toggle(IS_ACTIVE)
-            fullPageElement.classList.toggle('no-scroll') /* Prevent fullpage scroll when navbar is-active */
-        }
-        menuBtn.addEventListener(CLICK, toggleNavigation)
-        navCloseBtn.addEventListener(CLICK, toggleNavigation)
-        blurOverlay.addEventListener(CLICK, toggleNavigation)
-
-        function change() {
-            document.getElementById("chg").style.color = "black";
-            document.getElementById("chg").style.backgroundColor = "white";
-            document.getElementById("chg").style.borderColor = "black";
-        }
-        function change2() {
-            document.getElementById("chg").style.color = "white";
-            document.getElementById("chg").style.backgroundColor = "black";
-        }
-
-    </script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
+      integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="assets/js/index.js"></script>
 </body>
 
 </html>

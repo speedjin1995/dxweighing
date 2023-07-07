@@ -3,11 +3,12 @@
 <?php 
     include 'header.php';
 ?>
+
 <body>
   <?php 
     include 'menu.php';
 ?>
-  <section class="section" style="height: 50vh;">
+  <section class="section" style="top: 20%;">
     <p style="
             justify-content: center;
             display: flex;
@@ -20,12 +21,12 @@
 
       <h1 class="title">Let's Get In Touch</h1>
     </div>
-    <div class="button-container" style="top: 22em; bottom: 100%">
+    <div class="button-container" style="top: 35% bottom: 100%">
       <a class="btn btn-primary" style="background: #25d366"
         href="https://api.whatsapp.com/send?phone=60124135822">Whatsapp Us Now</a>
     </div>
   </section>
-  <section class="section" style="height: 75vh; padding-top: 80px;">
+  <section class="section" style="height: 50%; padding-left: 10%; padding-right: 10%;">
     <div class="form-container">
       <form name="frmContact" id="" frmContact"" method="post" action="" enctype="multipart/form-data"
         onsubmit="return validateContactForm()">
@@ -61,10 +62,9 @@
         <div class="button-container" style="position: relative;
     justify-content: center;">
           <input type="submit" name="send" style="background: rgba(23, 26, 42, 0.8);
-    color: white;
-    font-size: 1.5rem;
-   font-family: 'Montserrat', sans-serif;
-" class="btn btn-primary" value="Send Message" />
+            color: white;
+            font-size: 1.5rem;
+            font-family: 'Montserrat', sans-serif;" class="btn btn-primary" value="Submit" />
 
           <div id="statusMessage">
             <?php if (! empty($message)) { ?>
@@ -75,13 +75,15 @@
           </div>
         </div>
       </form>
-  </section>
-
-  <footer class="footer" style="padding-top: 200px;">
-    <?php 
+    </div>
+    <footer class="footer" style="padding-top: 200px;">
+      <?php 
     include 'footer.php';
 ?>
-  </footer>
+    </footer>
+  </section>
+
+
   <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
 
   <script>
@@ -124,12 +126,10 @@
       return valid;
     }
   </script>
-  <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
-      integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    ></script>
-    <script src="assets/js/index.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
+    integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="assets/js/index.js"></script>
 </body>
+
 </html>

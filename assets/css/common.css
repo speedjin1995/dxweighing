@@ -189,3 +189,17 @@ input[type=submit]:hover {
   letter-spacing: 2px;
   padding-left: 5px;
 }
+
+.google-map {
+  padding-bottom: 40%;
+  position: relative;
+  overflow: hidden;
+}
+
+.google-map iframe {
+  height: 90%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
