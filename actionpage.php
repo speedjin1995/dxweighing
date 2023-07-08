@@ -76,7 +76,7 @@
         </div>
       </form>
     </div>
-    <footer class="footer" style="padding-top: 200px;">
+    <footer class="footer" style="padding-top: 200px; padding-left: 0%; padding-right: 0%;">
       <?php 
     include 'footer.php';
 ?>

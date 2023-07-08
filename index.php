@@ -34,7 +34,7 @@
           <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
-      <section class="section four">
+      <section onclick="location.href='weig.php';" class="section four">
         <div class="content">
           <h1 class="title">Weigh-Bridges</h1>
         </div>
