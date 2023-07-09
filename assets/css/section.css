@@ -13,8 +13,8 @@
 }
 
 .one {
-    background-image: url(../media/precision-scales.jpg);
-    /* background-image: url(../media/precision-scales-1.jpg); */
+    /* background-image: url(../media/precision-scales.jpg); */
+    background-image: url(../media/precision-scales-1.jpg);
 }
 
 .two {
@@ -36,6 +36,16 @@
 .contact {
     background-image: url(../media/contact.gif);
 }
+
+.about {
+    background-image: url(../media/about.png);
+}
+
+.about1 {
+    background-image: url(../media/about1.jpeg);
+    background-size: 45%;
+}
+
 /* content */
 .content {
     position: absolute;

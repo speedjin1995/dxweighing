@@ -73,8 +73,7 @@ input[type=submit]:hover {
   transform: translate(-50%, -50%);
   text-align: center;
   color: black;
-  font-weight: bold;
-  font-size: 1.6vw;
+  font-size: 15px;
 }
 
 
