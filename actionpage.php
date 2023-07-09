@@ -8,7 +8,7 @@
   <?php 
     include 'menu.php';
 ?>
-  <section class="section" style="top: 20%;">
+  <section class="section contact" style="top: 20%;">
     <p style="
             justify-content: center;
             display: flex;
@@ -37,8 +37,8 @@
             <input type="text" class="input-field" name="userName" id="userName" />
           </div>
           <div class="input-row">
-            <label style="padding-top: 20px;">Last Name</label> <span id="userName-info" class="info"></span><br />
-            <input type="text" class="input-field" name="userName" id="userName" />
+            <label style="padding-top: 20px;">Last Name</label> <span id="lastName-info" class="info"></span><br />
+            <input type="text" class="input-field" name="lastName" id="lastName" />
           </div>
         </div>
         <div class="form-grid">
@@ -47,8 +47,8 @@
             <input type="text" class="input-field" name="userEmail" id="userEmail" />
           </div>
           <div class="input-row">
-            <label>Mobile Number</label> <span id="userEmail-info" class="info"></span><br />
-            <input type="text" class="input-field" name="userEmail" id="userEmail" />
+            <label>Mobile Number</label> <span id="mobile-info" class="info"></span><br />
+            <input type="text" class="input-field" name="mobile" id="mobile" />
           </div>
         </div>
         <div class="input-row">
@@ -93,6 +93,7 @@
       $(".info").html("");
       $(".input-field").css('border', '#e0dfdf 1px solid');
       var userName = $("#userName").val();
+      var lastName = $("#lastName").val();
       var userEmail = $("#userEmail").val();
       var subject = $("#subject").val();
       var content = $("#content").val();
@@ -100,6 +101,11 @@
       if (userName == "") {
         $("#userName-info").html("Required.");
         $("#userName").css('border', '#e66262 1px solid');
+        valid = false;
+      }
+      if (lastName == "") {
+        $("#lastName-info").html("Required.");
+        $("#lastName").css('border', '#e66262 1px solid');
         valid = false;
       }
       if (userEmail == "") {

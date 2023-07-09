@@ -42,7 +42,7 @@
           <a class="btn btn-primary" href="actionpage.php">Contact Us</a>
         </div>
       </section>
-      <section class="section five">
+      <section onclick="location.href='others.php';" class="section five">
         <div class="content">
           <h1 class="title">Others</h1>
         </div>

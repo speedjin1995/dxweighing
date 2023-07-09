@@ -38,7 +38,7 @@ Max. Capacity : 200, 500, 750 (kg)<br><br>
         </div>
         <div class="grid-item4" style="width: 6vw;">
             <p style="width: 30vw;">Indicator</p><br>
-            <h1 style="width: 30vw;">Synctronix Electronic ABS Weighing Indicator</h1><br>
+            <h1 style="width: 30vw;">Electronic ABS Weighing Indicator</h1><br>
             <p style="width: 40vw;">
 Big LCD with backlit<br><br>
 Accumulation<br><br>
