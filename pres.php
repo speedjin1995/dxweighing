@@ -15,18 +15,19 @@
     </section>
   
     <div class="grid-container">
-        <div class="grid-item">Anti-overload<br>Function</div>
-        <div class="grid-item">LCD Display<br>with Backlight</div>
-        <div class="grid-item">Operating Temperature<br>10 ℃ ~ 60 ℃</div>
+        <div class="grid-item">Anti-overload Function</div>
+        <div class="grid-item">LCD Display with Backlight</div>
+        <div class="grid-item">Operating Temperature 10 ℃ ~ 60 ℃</div>
     </div>
     <div class="grid-container4">
-        <div class="grid-item4" style="width: 39vw;">
-            <img src="assets/media/pres_1.jpg" alt="" style="width: 53vw;">
+        <div class="grid-item4">
+            <img src="assets/media/pres_1.jpg" alt="" style="width: 40vw; margin-left: auto;
+    margin-right: auto;">
         </div>
-        <div class="grid-item4" style="width: 120px;">
-            <p style="width: 30vw;">Product Features</p><br>
-            <h1 style="width: 30vw;">Synctronix Electronic ABS Precision Balance Scale</h1><br>
-            <p style="width: 30vw;">High-precision straining resistance sensor<br><br>
+        <div class="grid-item4" style="padding-right: 15px;">
+            <p>Product Features</p><br>
+            <h1>Synctronix Electronic ABS Precision Balance Scale</h1><br>
+            <p>High-precision straining resistance sensor<br><br>
             Strong anti-overload function<br><br>
             Optional power saving mode<br><br>
             LCD display with backlight<br><br>
@@ -41,24 +42,26 @@
             <p>Sensor</p><br>
             <h1>High-precision Straining <br>Resistance</h1><br><br>
         </div>
-        <div class="grid-item4">
+        <div class="grid-item4" style="padding-right: 5vw;">
             <p>A high-precision straining resistance sensor is a key component in a precision scale that enables accurate measurement of weight or mass. It works on the principle of strain gauge technology, which utilizes the change in electrical resistance of a material under strain or pressure. 
             <p>
         </div>
     </div>
     <div class="grid-container4">
-        <div class="grid-item4">
+        <div class="grid-item4" style="padding-left: 5vw;">
             <p>A strong anti-overload function in a precision scale refers to a feature that protects the scale from damage or inaccurate readings when excessive weight is applied to it. It is designed to ensure the scale's integrity and maintain accurate measurements within its specified weight range. 
             <p>
         </div>
-        <div class="grid-item2">
+        <div class="grid-item2" style="text-align: right;">
             <p>Function</p><br>
             <h1>Strong Anti-overload</h1><br><br>
         </div>
     </div>
     <div class="grid-container4">
         <div class="grid-item4" style="width: 6vw;">
-            <img src="assets/media/pres_2.jpg" alt="" style="width: 39vw;">
+            <img src="assets/media/pres_2.jpg" alt="" style="width: 40vw;
+    margin-left: auto;
+    margin-right: auto;">
         </div>
         <div class="grid-item4" style="width: 3vw;">
             <p style="font-size: 2em; width: 30vw;"><b>Product</b> Specs</p><br>

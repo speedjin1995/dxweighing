@@ -11,6 +11,7 @@ html {
     font-size: 62.5%;
     /*makes 1rem = 10px */
     line-height: 1.15;
+    overflow: auto;
 }
 
 body {

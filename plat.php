@@ -18,28 +18,30 @@
         <div class="grid-item">Different Sizes,<br>Capacities, Styles and Models</div>
         <div class="grid-item">Functions<br>Depend On The Indicator</div>
     </div>
-    <div class="grid-container4">
+    <div class="grid-container4" style="padding-left: 15px;">
         <div class="grid-item4">
-            <p style="width: 30vw;">Platform Features</p><br>
-            <h1 style="width: 30vw;">Stainless Steel Platform Scale</h1><br>
-            <p style="width: 30vw;">Stainless steel structure with stainless steel cover<br><br>
+            <p>Platform Features</p><br>
+            <h1>Stainless Steel Platform Scale</h1><br>
+            <p>Stainless steel structure with stainless steel cover<br><br>
 Capacity : 150, 300, 500 (kg)<br><br>
 Division : 50, 100, 200 (g)<br><br>
 Structure size : 400 x 500, 500 x 600, 600 x 800 (mm)<br><br>
 Max. Capacity : 200, 500, 750 (kg)<br><br>
         </div>
         <div class="grid-item4" style="width: 39vw;">
-            <img src="assets/media/plat_2.jpg" alt="" style="width: 53vw;">
+            <img src="assets/media/plat_2.jpg" alt="" style="width: 40vw; margin-left: auto;
+    margin-right: auto;">
         </div>
     </div>
     <div class="grid-container4">
-    <div class="grid-item4" style="width: 6vw;">
-            <img src="assets/media/plat_1.jpg" alt="" style="width: 39vw;">
+    <div class="grid-item4">
+            <img src="assets/media/plat_1.jpg" alt="" style="width: 40vw; margin-left: auto;
+    margin-right: auto;">
         </div>
-        <div class="grid-item4" style="width: 6vw;">
-            <p style="width: 30vw;">Indicator</p><br>
-            <h1 style="width: 30vw;">Electronic ABS Weighing Indicator</h1><br>
-            <p style="width: 40vw;">
+        <div class="grid-item4" style="padding-right: 15px;">
+            <p>Indicator</p><br>
+            <h1>Electronic ABS Weighing Indicator</h1><br>
+            <p>
 Big LCD with backlit<br><br>
 Accumulation<br><br>
 Auto power off<br><br>

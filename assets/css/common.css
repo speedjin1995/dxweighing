@@ -2,14 +2,15 @@
   background-image: linear-gradient(rgb(24, 24, 24), rgb(12, 12, 12), rgb(0, 0, 0));
   height: 220px;
   display: grid;
-  column-gap: 5px;
+  column-gap: 1vw;
   grid-template-columns: auto auto auto;
   color: white;
+  width: 100vw;
 }
 
 .grid-item {
   padding: 15px;
-  font-size: 20px;
+  font-size: 160%;
   text-align: center;
   align-content: center;
   display: grid;
@@ -50,10 +51,10 @@ input[type=submit]:hover {
   padding-right: 15px;
   padding-bottom: 15px;
   padding-left: 15px;
-  font-size: 20px;
   text-align: left;
   align-content: center;
   display: grid;
+  font-size: 150%;
 }
 
 
@@ -101,19 +102,15 @@ input[type=submit]:hover {
   background-color: white;
   height: auto;
   display: grid;
-  column-gap: 5px;
+  column-gap: 1vw;
   grid-template-columns: auto auto;
-  padding-left: 7vw;
-  padding-right: 7vw;
   color: rgb(0, 0, 0);
 }
 
 .grid-item4 {
   padding-top: 50px;
-  padding-right: 15px;
   padding-bottom: 15px;
-  padding-left: 15px;
-  font-size: 16px;
+  font-size: 150%;
   text-align: left;
   align-content: center;
   display: grid;
