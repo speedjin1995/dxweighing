@@ -24,7 +24,7 @@
             <p>Electronic</p><br>
             <h1>Heavy Duty Crane Scale</h1><br><br>
         </div>
-        <div class="grid-item4" style="padding-right: 15px;">
+        <div class="grid-item4">
             <p>With high accuracy,
 one side direct display measuring unit which
 combine load cell and power supply together. It can be directly hung on the hook of a hoist and
@@ -34,7 +34,7 @@ and weighing goods synchronously.
         </div>
     </div>
     <div class="grid-container4">
-        <div class="grid-item4" style="padding-left: 15px;">
+        <div class="grid-item4">
             <p>The display tube is made up of super-bright tube (LED)
 which can be easily seen in 25 meters. It is equipped with wireless communication, ranged
 up to 500m with video data transmission.

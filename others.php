@@ -34,7 +34,7 @@ operation and stably performance.<p>
         </div>
     </div>
 
-    <div style="text-align: center; padding-left: 18vw;padding-right: 18vw;padding-top: 23px;padding-bottom: 23px;font-size: 15px;">
+    <div style="text-align: center; padding-left: 18vw;padding-right: 18vw;padding-top: 7vh;padding-bottom: 7vh;font-size: 15px;">
         <h1>Customized Weighing Automation Systems</h1><br>
         <p>DX Resources offers full customize fabrication services. Whether you need a customize stand for a bench scale or a column added to a floor scale for portability or some other project not scale related at all we have the fabrication expertise to make it happen. DX Resources can fabricate in either mild or stainless steel to satisfy your application needs.</p>
     </div>

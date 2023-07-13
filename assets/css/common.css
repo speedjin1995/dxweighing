@@ -48,9 +48,9 @@ input[type=submit]:hover {
 
 .grid-item2 {
   padding-top: 50px;
-  padding-right: 15px;
+  padding-right: 5vw;
   padding-bottom: 15px;
-  padding-left: 15px;
+  padding-left: 5vw;
   text-align: left;
   align-content: center;
   display: grid;
@@ -110,6 +110,8 @@ input[type=submit]:hover {
 .grid-item4 {
   padding-top: 50px;
   padding-bottom: 15px;
+  padding-left: 5vw;
+  padding-right: 5vw;
   font-size: 150%;
   text-align: left;
   align-content: center;

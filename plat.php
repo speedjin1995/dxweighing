@@ -38,7 +38,7 @@ Max. Capacity : 200, 500, 750 (kg)<br><br>
             <img src="assets/media/plat_1.jpg" alt="" style="width: 40vw; margin-left: auto;
     margin-right: auto;">
         </div>
-        <div class="grid-item4" style="padding-right: 15px;">
+        <div class="grid-item4">
             <p>Indicator</p><br>
             <h1>Electronic ABS Weighing Indicator</h1><br>
             <p>

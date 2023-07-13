@@ -35,10 +35,7 @@
 
 .contact {
     background-image: url(../media/contact.gif);
-}
-
-.about {
-    background-image: url(../media/about.png);
+    background-size: 100%;
 }
 
 .about1 {

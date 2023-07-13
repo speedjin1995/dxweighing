@@ -24,7 +24,7 @@
             <img src="assets/media/pres_1.jpg" alt="" style="width: 40vw; margin-left: auto;
     margin-right: auto;">
         </div>
-        <div class="grid-item4" style="padding-right: 15px;">
+        <div class="grid-item4">
             <p>Product Features</p><br>
             <h1>Synctronix Electronic ABS Precision Balance Scale</h1><br>
             <p>High-precision straining resistance sensor<br><br>
@@ -42,17 +42,17 @@
             <p>Sensor</p><br>
             <h1>High-precision Straining <br>Resistance</h1><br><br>
         </div>
-        <div class="grid-item4" style="padding-right: 5vw;">
+        <div class="grid-item4">
             <p>A high-precision straining resistance sensor is a key component in a precision scale that enables accurate measurement of weight or mass. It works on the principle of strain gauge technology, which utilizes the change in electrical resistance of a material under strain or pressure. 
             <p>
         </div>
     </div>
     <div class="grid-container4">
-        <div class="grid-item4" style="padding-left: 5vw;">
+        <div class="grid-item4">
             <p>A strong anti-overload function in a precision scale refers to a feature that protects the scale from damage or inaccurate readings when excessive weight is applied to it. It is designed to ensure the scale's integrity and maintain accurate measurements within its specified weight range. 
             <p>
         </div>
-        <div class="grid-item2" style="text-align: right;">
+        <div class="grid-item2">
             <p>Function</p><br>
             <h1>Strong Anti-overload</h1><br><br>
         </div>

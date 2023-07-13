@@ -32,5 +32,9 @@
         <li><a href="cran.php" class="nav-link">Crane Weigher</a></li>
         <li><a href="weig.php" class="nav-link">Weigh-Bridges</a></li>
         <li><a href="others.php" class="nav-link">Others</a></li>
+        <li><a href="about.php" class="nav-link">about us</a></li>
+        <li><a href="actionpage.php" class="nav-link">contact</a></li>
+        <li><a href="#" class="nav-link">services</a></li>
+        <li><a href="location.php" class="nav-link">location</a></li>
     </ul>
 </nav>

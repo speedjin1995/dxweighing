@@ -27,7 +27,7 @@
       </div>
 </section>
       <section style="height: 20px;">
-      <footer class="footer" style="position: absolute; z-index: 9; padding-bottom: 1.5%;">
+      <footer class="footer" style="position: absolute; z-index: 9; padding-bottom: 5.5%; background-color: white;">
           <?php 
     include 'footer.php';
 ?>
