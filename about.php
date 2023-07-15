@@ -18,8 +18,6 @@
           ">
         DX Resources
       </p>
-      <!-- <img src="assets/media/about1.jpeg" alt="" style="width: 40vw; margin-left: auto;
-    margin-right: auto;"> -->
 </div>
       <div style="font-size: 15px; margin-top: auto; text-align: center;
     padding-bottom: 15px;">

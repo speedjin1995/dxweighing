@@ -19,7 +19,7 @@
           ">
           DX Resources Store
         </p>
-        <div style="padding-top: 2%; padding-left: 10%; padding-right: 10%;">
+        <div style="padding-top: 2%; padding-left: 10%; padding-right: 10%; position: relative;">
           <div class="google-map">
           <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3972.040221774075!2d100.38185207472789!3d5.410845335092811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMjQnMzkuMCJOIDEwMMKwMjMnMDMuOSJF!5e0!3m2!1sen!2smy!4v1688883915118!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>

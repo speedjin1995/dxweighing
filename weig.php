@@ -13,7 +13,7 @@
         <div class="content">
             <h1 class="title">Weigh-Bridges</h1>
     </section>
-    <section class="section" style="background-color: black; display: flex;">
+    <section class="section" style="background-color: black; display: flex; height: inherit;">
         <div class="grid-container2">
             <div class="grid-item2">
                 <img src="assets/media/weig_1.jpg" alt="" style="width: 100%;">

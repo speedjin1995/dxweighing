@@ -43,6 +43,12 @@
     background-size: 45%;
 }
 
+.service {
+    background-image: url(../media/service.avif);
+    background-size: 38%;
+    background-position: center;
+}
+
 /* content */
 .content {
     position: absolute;
