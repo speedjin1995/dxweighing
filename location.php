@@ -8,8 +8,8 @@
   <?php 
     include 'menu.php';
 ?>
-  <main id="myfullpage" style="overflow: hidden;">
-    <section class="section" style="height: 22vh;">
+  <main id="myfullpage">
+    <section class="section" style="height: inherit;">
       <div class="content">
         <h1 class="title">Find Us</h1>
         <p style="
@@ -25,9 +25,7 @@
           </div>
         </div>
       </div>
-</section>
-      <section style="height: 20px;">
-      <footer class="footer" style="position: absolute; z-index: 9; padding-bottom: 5.5%; background-color: white;">
+      <footer class="footer" style="position: absolute; z-index: 9; background-color: white;">
           <?php 
     include 'footer.php';
 ?>
