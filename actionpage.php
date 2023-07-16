@@ -28,9 +28,7 @@
   </section>
   <section class="section" style="height: 50%; padding-left: 10%; padding-right: 10%;">
     <div class="form-container">
-      <form name="frmContact" id="" frmContact"" method="post" action="" enctype="multipart/form-data"
-        onsubmit="return validateContactForm()">
-
+      <form  class="custom-form" action="php/contact.php" name="contactform" id="contactform">
         <div class="form-grid">
           <div class="input-row">
             <label style="padding-top: 20px;">First Name</label> <span id="userName-info" class="info"></span><br />
@@ -59,8 +57,7 @@
           <label>Message</label> <span id="userMessage-info" class="info"></span><br />
           <textarea name="content" id="content" class="input-field" cols="60" rows="6"></textarea>
         </div>
-        <div class="button-container" style="position: relative;
-    justify-content: center;">
+        <div class="button-container" style="position: relative; justify-content: center;">
           <input type="submit" name="send" style="background: rgba(23, 26, 42, 0.8);
             color: white;
             font-size: 1.5rem;
